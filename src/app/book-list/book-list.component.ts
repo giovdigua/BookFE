@@ -9,4 +9,5 @@ import { Component } from '@angular/core';
 })
 export class BookListComponent {
 
+  bookTitle: string = "My Book";
 }
